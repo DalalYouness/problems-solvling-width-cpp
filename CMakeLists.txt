@@ -13,4 +13,14 @@ add_executable(myc__probem_solving level1/problem1.cpp
         level1/problem8.cpp
         level1/problem9.cpp
         level1/problem10.cpp
+        level1/problem11.cpp
+        level1/problem12.cpp
+        level1/problem13.cpp
+        level1/problem14.cpp
+        level1/problem15.cpp
+        level1/problem16.cpp
+        level1/problem17.cpp
+        level1/problem18.cpp
+        level1/problem19.cpp
+        level1/problem20.cpp
 )
